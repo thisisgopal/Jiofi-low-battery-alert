@@ -3,6 +3,7 @@ import requests
 import time
 import subprocess as sp
 # Gopal Narayanan - 14.05.2020 @ 5.45 PM - gopalnarayanantn@gmail.com
+# Jiofi product ID - JMR1040 ( Mine )
 
 
 def scrap():
